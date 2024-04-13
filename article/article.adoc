@@ -111,7 +111,7 @@ The integration journey involves several key changes:
 
 In this article, we present two distinct views:
 
-Baseline of the Technology Architecture: This view outlines the current state of XYZ’s technology infrastructure, focusing on the Auth0 Tenant and its role.
+- Baseline of the Technology Architecture: This view outlines the current state of XYZ’s technology infrastructure, focusing on the Auth0 Tenant and its role.
 
 .Baseline of the Technology Architecture
 image::5.1. Technology Baseline.png[]
