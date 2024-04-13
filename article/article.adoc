@@ -1,0 +1,23 @@
+= Archimate
+:author: Thibault Morin
+:revdate: 2024-04-13
+:revnumber: 1
+:toc:
+:icons: font
+:source-highlighter: coderay
+:doctype: article
+:description:
+:copyright: CC BY 4.0
+
+[abstract]
+== Abstract
+
+== Conclusion
+
+[bibliography]
+== Bibliography
+
+[colophon]
+== Colophon
+
+Distributed under the https://creativecommons.org/licenses/by/4.0:[{copyright}] license.
