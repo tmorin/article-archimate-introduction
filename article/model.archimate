@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<archimate:model xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:archimate="http://www.archimatetool.com/archimate" name="LinkedIn - ArchiMate Series - Benefits" id="id-324c0557d85d4c7c8a12b79118223253" version="5.0.0">
+<archimate:model xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:archimate="http://www.archimatetool.com/archimate" name="ArchiMate - Practical Introduction" id="id-324c0557d85d4c7c8a12b79118223253" version="5.0.0">
   <folder name="Strategy" id="id-281521ef98db48f88bba85739007f4a4" type="strategy"/>
   <folder name="Business" id="id-4cd9da9ca5024f55be6f9a5a6e131c9d" type="business">
     <element xsi:type="archimate:BusinessProcess" name="User Authentication" id="id-b862bb2a31db4528ab2f93e33d4be77e"/>
